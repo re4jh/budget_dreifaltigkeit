@@ -1,4 +1,4 @@
-"jahr","haushalt","haushalt_beschreibung","abschnitt","bezeichnung_abschnitt","hh_stelle","bezeichnung_hh_stelle","flow","betrag"
+jahr,haushalt,haushalt_beschreibung,abschnitt,bezeichnung_abschnitt,hh_stelle,bezeichnung_hh_stelle,flow,betrag
 2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",410,"Anteil Seelsorgeeinheit","Einnahmen",2000
 2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",420,"Zuweisung Diözese","Einnahmen",245
 2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",1500,"Erlöse und Spenden Echo","Einnahmen",3210

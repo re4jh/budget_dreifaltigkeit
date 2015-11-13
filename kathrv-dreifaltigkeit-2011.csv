@@ -1,0 +1,128 @@
+"jahr","haushalt","haushalt_beschreibung","abschnitt","bezeichnung_abschnitt","hh_stelle","bezeichnung_hh_stelle","flow","betrag"
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",410,"Anteil Seelsorgeeinheit","Einnahmen",2000
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",420,"Zuweisung Diözese","Einnahmen",245
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",1500,"Erlöse und Spenden Echo","Einnahmen",3210
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",2110,"Klingelbeutelopfer","Einnahmen",9089.24
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",2200,"Spenden","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",400,"Ministranten","Ausgaben",508.1
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5110,"Hostien und Messwein","Ausgaben",595.04
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5120,"Kerzen und Ewiglichtoel","Ausgaben",1000
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5130,"Religioese Schriften","Ausgaben",1273.92
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5140,"Blumen und Dekoration","Ausgaben",850
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5150,"Erstkommunionvorbereitung","Ausgaben",733.95
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5160,"Firmung","Ausgaben",957.54
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5180,"Kindergottesdienst","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5400,"Gemeindezeitung Echo","Ausgaben",3860.44
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",5800,"Versicherungen","Ausgaben",1874.24
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6100,"Unterhaltung Kirche","Ausgaben",1895.81
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6210,"Heizung","Ausgaben",3851.94
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6220,"Reinigung und Müll","Ausgaben",286.97
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6230,"Wasser und Strom","Ausgaben",3307.98
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6240,"Abgaben und Gebühren","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6241,"Wasser und Abwasser","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6250,"Gebäudeversicherung","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6400,"Inventar und Geräte","Ausgaben",8715.1
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6420,"Gebrauchsgegenstände","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6430,"Wäsche und Paramente","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6800,"Sonstige Ausgaben","Ausgaben",1719.15
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6810,"Schulungen","Ausgaben",562.9
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6850,"Ministranten","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",100,"Seelsorge und Kult",6890,"Liturgie Seelsorgeeinheit","Ausgaben",4.2
+2011,"OH","Ordentlicher Haushalt",200,"Pfarrhaus",1200,"Mieten","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",200,"Pfarrhaus",1600,"Kostenersätze","Einnahmen",1491.98
+2011,"OH","Ordentlicher Haushalt",200,"Pfarrhaus",6100,"Gebäudeunterhaltung","Ausgaben",1573.14
+2011,"OH","Ordentlicher Haushalt",200,"Pfarrhaus",6200,"Bewirtschaftungskosten","Ausgaben",1943.8
+2011,"OH","Ordentlicher Haushalt",300,"Mesnerdienst",1600,"Kostenersätze","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",300,"Mesnerdienst",4000,"Personalausgaben","Ausgaben",14734.69
+2011,"OH","Ordentlicher Haushalt",300,"Mesnerdienst",5460,"Fahrtkosten","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",1000,"Einnahmen","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",4000,"Personalausgaben","Ausgaben",7795.19
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",5400,"Noten und Liedtexte","Ausgaben",202.73
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",5460,"Fahrtkosten","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6810,"Kirchenchor","Ausgaben",870
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6811,"Kinderchor","Ausgaben",16.1
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6812,"Jugendchor","Ausgaben",11.7
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6813,"Viercant","Ausgaben",430
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6860,"Kirchenchor","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6861,"Kinderchor","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6862,"Jugendchor","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",500,"Kirchenmusik",6863,"Viercant","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1100,"Jugendseelsorge",1000,"Einnahmen","Einnahmen",126.26
+2011,"OH","Ordentlicher Haushalt",1100,"Jugendseelsorge",1900,"Erstattung","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",1100,"Jugendseelsorge",4000,"Personalausgaben","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1100,"Jugendseelsorge",5200,"Fortbildung","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1100,"Jugendseelsorge",7400,"Zuschüsse","Ausgaben",503.4
+2011,"OH","Ordentlicher Haushalt",1100,"Jugendseelsorge",7401,"Zuschuss Dreifaltigkeitstreff","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1200,"Erwachsenenbildung",1000,"Erwachsenenbildung","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",1200,"Erwachsenenbildung",5000,"Erwachsenenbildung","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1700,"Sakramente",1010,"Einnahmen Firmung","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",1700,"Sakramente",1020,"Einnahmen Erstkommunion","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",1700,"Sakramente",5010,"Ausgaben Firmung","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1700,"Sakramente",5020,"Ausgaben Erstkommunion","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1800,"Ehrenamtliche",1900,"Erstattung","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",1800,"Ehrenamtliche",5000,"Ausgaben","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",1900,"Pfarrbücherei",1000,"Einnahmen","Einnahmen",1419.04
+2011,"OH","Ordentlicher Haushalt",1900,"Pfarrbücherei",4000,"Personalausgaben","Ausgaben",471.65
+2011,"OH","Ordentlicher Haushalt",1900,"Pfarrbücherei",5000,"Ausgaben","Ausgaben",2361
+2011,"OH","Ordentlicher Haushalt",2100,"Erwachsenenbildung",500,"Zuschüsse des KBW","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",2100,"Erwachsenenbildung",1400,"Teilnehmerbeiträge","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",2100,"Erwachsenenbildung",6800,"Veranstaltungen","Ausgaben",593.9
+2011,"OH","Ordentlicher Haushalt",2100,"Erwachsenenbildung",6810,"Sonstige Ausgaben","Ausgaben",300
+2011,"OH","Ordentlicher Haushalt",2300,"Echo",1600,"Kostenersatz","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",2300,"Echo",1900,"Erstattung SE","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",2300,"Echo",6800,"Sonstige Ausgaben","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3110,"Gemeindezentrum",410,"Anteil Seelsorgeeinheit","Einnahmen",3000
+2011,"OH","Ordentlicher Haushalt",3110,"Gemeindezentrum",1400,"Benutzungsgebühren","Einnahmen",5992.15
+2011,"OH","Ordentlicher Haushalt",3110,"Gemeindezentrum",1500,"Erlöse","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",3110,"Gemeindezentrum",1600,"Kostenersätze","Einnahmen",1000
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",4000,"Personalausgaben","Ausgaben",5615.86
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",5100,"Lebensmittel und Getränke","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",5160,"Lebensmittel und Getränke","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",5600,"KFZ Betriebskosten","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",5800,"Versicherungen","Ausgaben",1203.03
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6100,"Gebäudeunterhaltung","Ausgaben",4185.51
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6210,"Heizung","Ausgaben",5438.75
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6220,"Reinigung und Müll","Ausgaben",12232.88
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6221,"Reinigung durch Fremdfirma","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6230,"Wasser und Strom","Ausgaben",4482.96
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6241,"Wasser und Abwasser","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6250,"Gebäudeversicherung","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6290,"Sonstige Bewirtschaftungskosten","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6400,"Inventar und Geräte","Ausgaben",1859.78
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6410,"Unterhaltung technische Geräte","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3100,"Gemeindezentrum",6420,"Gebrauchsgegenstände","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",3120,"Jugendräume","-","Einnahmen","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",3120,"Jugendräume",4000,"Personalausgaben","Ausgaben",2657.96
+2011,"OH","Ordentlicher Haushalt",3120,"Jugendräume",6100,"Gebäudeunterhaltung","Ausgaben",250
+2011,"OH","Ordentlicher Haushalt",3120,"Jugendräume",6200,"Bewirtschaftungskosten","Ausgaben",1421.61
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",700,"Zuschuss Krankenpflegeverein","Einnahmen",3518.3
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",1400,"Entgelte","Einnahmen",94220.26
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",4000,"Vergütung Helferinnen","Ausgaben",80573.54
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",5200,"Fahrtkosten","Ausgaben",1976.95
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",5400,"Geschäftsbedarf","Ausgaben",3152.15
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",6900,"Verwaltungskostenanteil","Ausgaben",4887
+2011,"OH","Ordentlicher Haushalt",3400,"Nachbarschaftshilfe",9100,"Zuführung Eigenkapital","Ausgaben",7148.82
+2011,"OH","Ordentlicher Haushalt",3770,"Migrationsdienst","-","Migrationsdienst","Einnahmen",43261.35
+2011,"OH","Ordentlicher Haushalt",3770,"Migrationsdienst","-","Migrationsdienst","Ausgaben",43261.35
+2011,"OH","Ordentlicher Haushalt",3800,"Nachbarschaftshilfe","-","Nachbarschaftshilfe","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",3800,"Nachbarschaftshilfe","-","Nachbarschaftshilfe","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",4000,"Überpfarrliche Aufgaben","-","Überpfarrliche Aufgaben","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",4000,"Überpfarrliche Aufgaben","-","Überpfarrliche Aufgaben","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",5100,"Pfarramt/Pfarrbüro","-","Pfarramt/Pfarrbüro","Einnahmen",17846.26
+2011,"OH","Ordentlicher Haushalt",5100,"Pfarramt/Pfarrbüro","-","Pfarramt/Pfarrbüro","Ausgaben",68594.2
+2011,"OH","Ordentlicher Haushalt",5200,"Räte/Ausschüsse/SE","-","Räte/Ausschüsse/SE","Einnahmen",4926.9
+2011,"OH","Ordentlicher Haushalt",5200,"Räte/Ausschüsse/SE","-","Räte/Ausschüsse/SE","Ausgaben",5707.15
+2011,"OH","Ordentlicher Haushalt",6200,"Bebaute Grundstücke","-","Bebaute Grundstücke","Einnahmen",20900.68
+2011,"OH","Ordentlicher Haushalt",6200,"Bebaute Grundstücke","-","Bebaute Grundstücke","Ausgaben",20900.68
+2011,"OH","Ordentlicher Haushalt",6400,"Stiftungsvermögen","-","Stiftungsvermögen","Einnahmen",1175
+2011,"OH","Ordentlicher Haushalt",6400,"Stiftungsvermögen","-","Stiftungsvermögen","Ausgaben",1438.02
+2011,"OH","Ordentlicher Haushalt",7100,"Steuern/Zuweisungen","-","Steuern/Zuweisungen","Einnahmen",148100
+2011,"OH","Ordentlicher Haushalt",7100,"Steuern/Zuweisungen","-","Steuern/Zuweisungen","Ausgaben",8000
+2011,"OH","Ordentlicher Haushalt",7200,"Kapitalvermögen","-","Kapitalvermögen","Einnahmen",0
+2011,"OH","Ordentlicher Haushalt",7200,"Kapitalvermögen","-","Kapitalvermögen","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",7300,"Rücklagen Gesamthaushalt","-","Rücklagen Gesamthaushalt","Einnahmen",5545
+2011,"OH","Ordentlicher Haushalt",7300,"Rücklagen Gesamthaushalt","-","Rücklagen Gesamthaushalt","Ausgaben",27744.04
+2011,"OH","Ordentlicher Haushalt",7400,"Sonstige Allgemeine Finanzw.","-","Sonstige Allgemeine Finanzw.","Einnahmen",153.36
+2011,"OH","Ordentlicher Haushalt",7400,"Sonstige Allgemeine Finanzw.","-","Sonstige Allgemeine Finanzw.","Ausgaben",0
+2011,"OH","Ordentlicher Haushalt",7500,"Abwicklung Vorjahre","-","Abwicklung Vorjahre","Einnahmen",9316.14
+2011,"OH","Ordentlicher Haushalt",7500,"Abwicklung Vorjahre","-","Abwicklung Vorjahre","Ausgaben",0
